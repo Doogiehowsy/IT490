@@ -1,0 +1,19 @@
+﻿Nov. 29 New assigned Task/Deliverables
+
+Dec 2 Look up videos on yotub about Centralize logging, Playlist and adding a music player, and adding a search box/function
+
+Dec 2 Proceed to work on the frontend page. Looked up and research functions incluing "submit" and "Remember Me"created and edited a login page with input function for "User: & Password:". 
+
+Dec 3 Finish Login page and edited music profile page. started researching databases. Access and Microsoft SQL server 2014 management studio
+
+Dec 5 Manage to get  list of songs for thr profile within the music profile page, Still requires a Database
+
+Dec 7-9 Atemping to learn PHP
+
+Dec 10-11 Music Player still isn't playing
+
+Dec 13 Asked pro. Kehoe if maybe the song file should also be located in the same file
+
+Dec 14-16 MySQL Ubuntu download and watch tutorials
+
+Dec. 17-20 Attempted to created a database.... not very successful
